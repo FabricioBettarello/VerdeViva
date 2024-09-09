@@ -14,11 +14,19 @@ O site da VerdeViva é uma plataforma desenvolvida para promover a sustentabilid
 - Frontend: HTML, CSS, JavaScript e Bootstrap
 - Hospedagem: Vercel
 
+## Equipe
+- Fabricio Bettarello
+- Athos Rodrigues
+- Eric Yuji
+- Kaue Pires
+- Higor Batista
+
 ## Como Visualizar o Projeto
 
 Acesse o link:
 ```bash
    https://verdeviva.vercel.app/
+```
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade.
